@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Obaid Khan
-- 👀 I’m interested in Machine Learning, Automation
+- 👀 I’m interested in Machine Learning, Web Development
 - 🌱 I’m currently learning Django, Statistics and Selenium
 - 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me ephiram2002@gmail.com
