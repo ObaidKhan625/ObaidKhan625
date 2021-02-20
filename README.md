@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ObaidKhan625
+- 👋 Hi, I’m Obaid Khan
 - 👀 I’m interested in Machine Learning, Automation
 - 🌱 I’m currently learning Django, Statistics and Selenium
 - 💞️ I’m looking to collaborate on Django
