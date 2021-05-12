@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obaid Khan
-- 👀 I’m interested in Machine Learning, Web Development
-- 🌱 I’m currently learning Django and Statistics
+- 👀 I’m interested in Algorithms, Web Development
+- 🌱 I’m currently learning Django and Algorithms
 - 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me ephiram2002@gmail.com
 
