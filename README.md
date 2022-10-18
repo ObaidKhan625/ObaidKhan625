@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Django, React
 - 📫 How to reach me ephiram2002@gmail.com
 
+![](https://komarev.com/ghpvc/?username=ObaidKhan625&color=brightgreen)
+
 ### Skills
 
 <p align="left">
