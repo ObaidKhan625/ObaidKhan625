@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Obaid Khan
-- 👀 I’m interested in Algorithms, Backend Development
-- 🌱 I’m currently learning PostgreSQL, React
-- 💞️ I’m looking to collaborate on Django, React
 - 📫 How to reach me ephiram2002@gmail.com
 
 ### Skills
